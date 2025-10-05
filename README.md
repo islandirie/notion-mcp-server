@@ -2,7 +2,7 @@
 
 > [!NOTE] 
 > 
-> We’ve introduced **Notion MCP**, a remote MCP server with the following improvements:
+> We’ve introduced **Notion MCP**, a r        "OPENAPI_MCP_HEADERS": "{\"Authorization\": \"Bearer ntn_****\", \"Notion-Version\": \"2025-09-03\"}"mote MCP server with the following improvements:
 > - Easy installation via standard OAuth. No need to fiddle with JSON or API token anymore.
 > - Powerful tools tailored to AI agents. These tools are designed with optimized token consumption in mind.
 > 
